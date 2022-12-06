@@ -1,0 +1,8 @@
+Watchlist = './watchlist.txt'
+
+[Feeds]
+Erai-raws = 'https://nyaa.si/?page=rss&c=1_2&f=0&u=Erai-raws'
+SubsPlease = 'https://nyaa.si/?page=rss&c=1_2&f=0&u=subsplease'
+NanDesuKa = 'https://nyaa.si/?page=rss&c=1_2&f=0&u=NanDesuKa'
+Judas = 'https://nyaa.si/?page=rss&c=1_2&f=0&u=Judas'
+Default = 'https://nyaa.si/?page=rss&c=1_2&f=0'

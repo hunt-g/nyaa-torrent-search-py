@@ -1,0 +1,11 @@
+[[tool.mypy.overrides]]
+module = "feedparser"
+ignore_missing_imports = true
+
+[[tool.mypy.overrides]]
+module = "anitopy"
+ignore_missing_imports = true
+
+[[tool.mypy.overrides]]
+module = "fuzzywuzzy"
+ignore_missing_imports = true
